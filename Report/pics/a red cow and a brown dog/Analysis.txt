@@ -1,0 +1,2 @@
+Both normal version and the CLIP version show a red cow next to a brown cow. The BLIP version has a red and a brown cow that have a cartoonish design, with a dark brown dog in the background.
+BLIP version has the higher score with this prompt because of existance of the dog.

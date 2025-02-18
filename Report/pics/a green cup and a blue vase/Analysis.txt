@@ -1,0 +1,2 @@
+All three showed a green cup and a green vase, and couldn't make the vase blue. BLIP version also has a second cup which is blue, but not a blue vase. Because of the extra blue cup, the CLIP version could be considered slightly better than BLIP version.
+

@@ -1,0 +1,5 @@
+Normal: shows a black dog and a brown and black dog.
+BLIP: shows 2 brownis black dogs.
+CLIP: shows a black dog and a brownish cat.
+
+As can be seen CLIP performed the best here.

@@ -1,0 +1,6 @@
+Normal: Shows a normal giraffe standing next to a blue cake. The hight of the giraffe compared to the cake is unrealistic.
+BLIP: shows 2 cakes with blue decorations and a small toy-like brown giraffe and a big giraffe in the background.
+CLIP: shows 2 cakes with blue decorations and a small giraffe in the background and a giraffe sticking its neck and head out of one the cakes. Both the small giraffe and the giraffe inside the cake are unrealistic.
+
+BLIP was the only one that showed a brown giraffe and also was the only one that got the size of a giraffe compared to a cake right, so it is the best one.
+

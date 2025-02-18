@@ -1,0 +1,4 @@
+In this prompt, both the CLIP and CLIP version tried to make the giraffe more normal, instead of read and none of them show a brown car, only red cars.
+But the normal stable diffusion turbo did manage to show a giraffe and a brown car (and also a red car), so the normal version is the best.
+The reason could be that the VLMs (both CLIP and BLIP) don't recognize red giraffes as girrafes, and as a result, ReNO tries to make the giraffe look more normal. Another reason could be that this is simply accidental and other seeds might make the optimized versions better.
+

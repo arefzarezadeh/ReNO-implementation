@@ -1,0 +1,6 @@
+Normal: Shows a small giraffe with an unrealistically big head with a big giraffe and 2 red suitcases.
+BLIP: shows a normal and a baby giraffe that are more brown than normal next to 2 red suitcases.
+CLIP: shows a huge giraffe that somehow has one of its legs connected to one of the suitcases, making it look unrealistic.
+
+Based on the descriptions, all of them managed to show the objects in the prompt, but BLIP had the most realistic version.
+

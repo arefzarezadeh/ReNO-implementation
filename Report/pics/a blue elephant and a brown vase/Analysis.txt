@@ -1,0 +1,5 @@
+Normal: shows a realistic looking blue elephant and a vase that is half-blue and half-brown. The vase has a small tree in it.
+BLIP and CLIP: both show a cartoony looking elephent next to a brown vase.
+
+In this example, both BLIP and CLIP could show the prompt without any significant flaws.
+

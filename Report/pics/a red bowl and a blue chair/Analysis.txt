@@ -1,0 +1,6 @@
+Normal: shows a red bowl and a weird surface that look like a couch with both red and blue sections.
+BLIP: shows a red bowl on a surface with random sections of red or blue.
+CLIP: shows 2 bowls stacked weirdly on each other (like one of them was attached to the other when it was being made), both on a blue chair.
+
+The CLIP version has the higher score based on closeness to the prompt, but the lower score based on being realistic.
+

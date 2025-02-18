@@ -1,0 +1,1 @@
+The normal version had a green apple and 2 weird looking yellow bananas and 2 yellow apples. The CLIP and BLIP version are very similar, both having a yellow apple but not being able to have green bananas, instead having yellow bananas. Both CLIP and BLIP would score very similarly.

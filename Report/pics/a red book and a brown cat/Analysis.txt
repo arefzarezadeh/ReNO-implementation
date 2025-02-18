@@ -1,0 +1,1 @@
+All three have a red-brown cat and a book, which has some red pages. None of them have a particularly obvious red book, or a completely brown cat. So if there was a scoring function, they all would score very similarly.

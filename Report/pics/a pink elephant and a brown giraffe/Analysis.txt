@@ -1,0 +1,1 @@
+All 3 have a cartoony looking pink elephant and a realistic looking pink elephant. But both CLIP and BLIP version made the picture worse by turning the small brown giraffe in the normal version into an elephant.

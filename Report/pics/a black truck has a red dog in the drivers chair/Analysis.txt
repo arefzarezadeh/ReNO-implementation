@@ -1,0 +1,6 @@
+Normal: Shows a red dog outside and a brown dog somehow in the middle of a red truck, the picture is very unrealistic.
+BLIP: shows a red dog outside a red truck. the image is more realistic than the normal one.
+CLIP: shows a red-brown dog in the back of a black truck with red outline.
+
+Although none of them could actually show the dog in the drevers chair, CLIP version could actually show the dog inside the truck. As a result, the CLIP version is the closest to the prompt.
+

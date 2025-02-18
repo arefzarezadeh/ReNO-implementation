@@ -1,0 +1,1 @@
+All three versions show a green bench and a normal (not blue) book on the bench. None of them managed to show the desired output.

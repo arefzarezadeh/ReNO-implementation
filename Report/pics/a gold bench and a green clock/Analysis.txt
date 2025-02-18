@@ -1,0 +1,6 @@
+Normal: shows a greenish yellow clock and a normal white clock on a green bench.
+BLIP: shows green clock with gold outline on a gold bench.
+CLIP: shows a gold clock on a gold bench, and a green clock next to the other clock.
+
+BLIP was the closest to the desired output, having only one clock which is green and a golden bench)
+

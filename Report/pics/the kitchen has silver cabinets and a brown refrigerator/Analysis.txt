@@ -1,0 +1,6 @@
+Normal: shows a kitchen with brown cabinets and 2 silver refrigerators, instead of the other way around.
+BLIP: Still has silver refrigerator, but tries to make the cabinets having a more metalic look to them, while still being brown.
+CLIP: Similar to the normal version, but has a fridge on brown cabinets, trying to making it closer to the prompt.
+
+Although none of them show silver cabinets or brown refrigerator, the BLIP version performed the best, by trying to make the cabinets look more metalic.
+

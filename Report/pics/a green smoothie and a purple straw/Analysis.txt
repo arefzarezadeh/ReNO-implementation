@@ -1,0 +1,5 @@
+Normal and BLIP version show a green smoothie with purple straw, but in both versions the straw is unrealistically straight, and standing behind the cup. BLIP version is better, because of showing one purple straw instead of two.
+The CLIP version has a green straw in it and a purple straw next to it.
+
+If scored purely on the objects based on the prompt, BLIP version has a higher score. But being realistic is important, the CLIP version is better.
+

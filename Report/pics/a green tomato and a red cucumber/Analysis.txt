@@ -1,0 +1,3 @@
+None of them show a cucumber, let alone a red cucumber. Instead they all have a green pumpkin-like fruit and a weird dark green fruit and a read tomato, with CLIP being the only one having a half-red and half-green tomato.
+
+Although none of the images are close to the prompt, the CLIP version performed slightly better.

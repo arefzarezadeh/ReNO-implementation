@@ -1,0 +1,2 @@
+All of them managed to show a blue dove, but none of them showed a white sky. In this example, the CLIP version's sky is more blue than the other ones, so the BLIP version performed slightly better than CLIP.
+
